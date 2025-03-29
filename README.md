@@ -82,7 +82,7 @@ Key findings:
 - Revealed **purchase patterns** by geography
 
 ## Requirements
-See complete list in [requirements.txt](requirements.txt)
+See complete list in [requirements.txt](https://github.com/HarikrishnaRao14/Customer-Segmentation/blob/main/requirment.txt)
 
 ## Contributing
 Contributions welcome! Please follow these steps:
