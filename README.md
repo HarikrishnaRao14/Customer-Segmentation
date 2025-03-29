@@ -74,7 +74,7 @@ python src/clustering.py
 
 ## Results
 Sample cluster visualization:
-![Cluster Visualization](images/cluster_visualization.png)
+![Cluster Visualization](https://github.com/HarikrishnaRao14/Customer-Segmentation/blob/main/download.png)
 
 Key findings:
 - Identified **5 distinct customer segments**
