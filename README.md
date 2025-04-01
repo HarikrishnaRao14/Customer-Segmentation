@@ -94,11 +94,3 @@ Contributions welcome! Please follow these steps:
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-**To Customize:**
-1. Replace placeholder links with your actual GitHub URL
-2. Add your contact information
-3. Include actual visualization images
-4. Update the requirements.txt reference if needed
-5. Modify the technical approach diagram if your process differs
